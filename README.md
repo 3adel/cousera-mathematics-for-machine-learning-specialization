@@ -1,1 +1,1 @@
-# cousera-mathematics-for-machine-learning-specialization
+# Cousera's Mathematics for Machine Learning Specialization courses assignments
