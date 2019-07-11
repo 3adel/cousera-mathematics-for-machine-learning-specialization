@@ -6,3 +6,6 @@ These are all the solutions of all the programming assignments. Please do not co
 2. Identifying special matrices [solution](https://github.com/3adel/cousera-mathematics-for-machine-learning-specialization/blob/master/Mathematics%20for%20Machine%20Learning%20-%20Linear%20Algebra/IdentifyingSpecialMatrices.ipynbb)
 3. PageRank algorithm [solution](https://github.com/3adel/cousera-mathematics-for-machine-learning-specialization/blob/master/Mathematics%20for%20Machine%20Learning%20-%20Linear%20Algebra/PageRank.ipynb)
 4. Reflecting Bear [solution](https://github.com/3adel/cousera-mathematics-for-machine-learning-specialization/blob/master/Mathematics%20for%20Machine%20Learning%20-%20Linear%20Algebra/ReflectingBear.ipynb)
+
+#### Mathematics for Machine Learning - Multivariate Calculus
+#### Mathematics for Machine Learning - PCA
